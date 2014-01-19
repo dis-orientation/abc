@@ -1,0 +1,10 @@
+name: "ABC Dis-orientation"
+description: "All the things you ought to know about ABC"
+
+url: "http://abc.dis-orientation.info"
+
+paginate: 10
+
+markdown: rdiscount
+permalink: pretty
+pygments: true
